@@ -1,0 +1,15 @@
+{
+  "name": "lista-exercicios-js",
+  "version": "1.0.0",
+  "description": "Resolução de questões de programação em JavaScript.",
+  "main": "questao1.js",
+  "scripts": {
+    "questao1": "node questao1.js",
+    "questao2": "node questao2.js",
+    "questao3": "node questao3.js",
+    "questao4": "node questao4.js",
+    "questao5": "node questao5.js"
+  },
+  "author": "Danilo",
+  "license": "MIT"
+}
